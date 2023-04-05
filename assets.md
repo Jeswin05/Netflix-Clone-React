@@ -12,22 +12,22 @@ imageUrl = 'https://image.tmdb.org/t/p/original'
 
 apiBaseUrl='https://api.themoviedb.org/3'
 
-trending ='https://api.themoviedb.org/3/trending/all/week?api_key={API_KEY_HERE}&language=en-US'
+trending ='https://api.themoviedb.org/3/trending/all/week?api_key={b5cc466e4099b5460377f4a11ccbcc4a}&language=en-US'
 
-action ='https://api.themoviedb.org/3/discover/movie?api_key={API_KEY_HERE}&with_genres=28'
+action ='https://api.themoviedb.org/3/discover/movie?api_key={b5cc466e4099b5460377f4a11ccbcc4a}&with_genres=28'
 
-originals ='https://api.themoviedb.org/3/discover/tv?api_key={API_KEY_HERE}&with_networks=213'
+originals ='https://api.themoviedb.org/3/discover/tv?api_key={b5cc466e4099b5460377f4a11ccbcc4a}&with_networks=213'
 
-ComedyMovies: 'https://api.themoviedb.org/3/discover/movie?api_key=${API_KEY_HERE}&with_genres=35',
+ComedyMovies= 'https://api.themoviedb.org/3/discover/movie?api_key=${b5cc466e4099b5460377f4a11ccbcc4a}&with_genres=35',
 
-HorrorMovies: 'https://api.themoviedb.org/3/discover/movie?api_key=${API_KEY_HERE}&with_genres=27',
+HorrorMovies: 'https://api.themoviedb.org/3/discover/movie?api_key=${b5cc466e4099b5460377f4a11ccbcc4a}&with_genres=27',
 
-ActionMovies: 'https://api.themoviedb.org/3/discover/movie?api_key=${API_KEY_HERE}&with_genres=28',
+ActionMovies: 'https://api.themoviedb.org/3/discover/movie?api_key=${b5cc466e4099b5460377f4a11ccbcc4a}&with_genres=28',
 
-RomanceMovies: 'https://api.themoviedb.org/3/discover/movie?api_key=${API_KEY_HERE}&with_genres=10749',
+RomanceMovies: 'https://api.themoviedb.org/3/discover/movie?api_key=${b5cc466e4099b5460377f4a11ccbcc4a}&with_genres=10749',
 
-Documentaries: 'https://api.themoviedb.org/3/discover/movie?api_key=${API_KEY_HERE}&with_genres=99',
+Documentaries: 'https://api.themoviedb.org/3/discover/movie?api_key=${b5cc466e4099b5460377f4a11ccbcc4a}&with_genres=99',
 
 ////////////////////////////////////////////////////////////////////API KEY////////////////////////////////////////////////////////////////////////////
 
-API_KEY = "YOUR API KEY"
+API_KEY = "b5cc466e4099b5460377f4a11ccbcc4a"
